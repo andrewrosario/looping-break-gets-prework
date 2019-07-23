@@ -1,5 +1,6 @@
-answer = ""
+
 def levitation_quiz
+  answer = ""
 	#your code here
 	while answer != "Wingardium Leviosa" do
 	  puts "What is the spell that enacts levitation?" 
