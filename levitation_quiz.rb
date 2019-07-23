@@ -1,7 +1,8 @@
 
 def levitation_quiz
 	#your code here
-	while answer != 
+	while answer != "Wingardium Leviosa" do
+	  puts 
 end
 
 
